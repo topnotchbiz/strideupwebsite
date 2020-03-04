@@ -9,7 +9,7 @@ gem 'gibbon'
 gem "high_voltage"
 gem "jquery-rails"
 #gem "pg"
-gem "puma"
+gem "puma", ">= 3.12.4"
 gem "rack-canonical-host"
 gem "rails", "~> 4.2.0"
 gem 'less-rails', '~> 2.7.0'
